@@ -1,0 +1,12 @@
+{
+    "model_name": "AgriMind Demo Classifier",
+    "classes": [
+        "healthy",
+        "diseased"
+    ],
+    "dataset": {
+        "healthy": 20,
+        "diseased": 20
+    },
+    "status": "trained"
+}
